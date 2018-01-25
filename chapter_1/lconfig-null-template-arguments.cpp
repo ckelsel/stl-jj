@@ -12,7 +12,7 @@ class deque
 {
  public:
   deque() {cout<<"deque"<<' ';}
-}
+};
 
 template <class T, class Sequence>
 bool operator==(const stack<T, Sequence>&x,

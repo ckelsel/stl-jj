@@ -1,6 +1,8 @@
 build
 build_
 
+.*.swp
+
 # Compiled Object files
 *.slo
 *.lo
